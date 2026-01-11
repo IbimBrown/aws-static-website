@@ -2,14 +2,14 @@ AWS S3 Static Website
 This project demonstrates how to host a static website using Amazon S3.
 
 Project Overview
-The website is built using basic HTML and CSS and hosted on an S3 bucket configured for static website hosting.
+The website is built using basic HTML and hosted on an S3 bucket configured for static website hosting.
 
 AWS Services Used
 Amazon S3 (Static Website Hosting)
 
 Configuration Steps
 Created an S3 bucket
-Uploaded static website files (HTML/CSS)
+Uploaded static website files (HTML)
 Enabled static website hosting
 Set index document to `index.html`
 Applied a public bucket policy to allow read access
